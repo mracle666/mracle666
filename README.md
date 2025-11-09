@@ -1,1 +1,1 @@
-a learning and exploring reposity
+a learning and exploring repository
